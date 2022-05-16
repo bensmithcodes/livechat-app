@@ -20,6 +20,7 @@ function App() {
   }
 
   return  <div className="App"><h3>Begin the chat!</h3>
+  <p>Please follow all guidelines when participating in the chat.</p>
   {!showChat?(
   <div className="joinChatContainer">
     <h3>Enter a chat</h3>
