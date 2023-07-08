@@ -1,5 +1,5 @@
 # livechat-app
-DEMO LINK TO PROJECT:https://github.com/bensmithcodes/livechat-app/assets/105318772/3dcb6895-1edb-40b4-9127-e2ca18715a9a
+DEMO LINK OF PROJECT:https://github.com/bensmithcodes/livechat-app/assets/105318772/3dcb6895-1edb-40b4-9127-e2ca18715a9a
 
 This project is a demonstration of real-time server communication
 between two users using React and Node.js with the help of socket.io.
