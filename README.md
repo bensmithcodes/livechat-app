@@ -1,4 +1,6 @@
 # livechat-app
+DEMO LINK TO PROJECT:https://github.com/bensmithcodes/livechat-app/assets/105318772/3dcb6895-1edb-40b4-9127-e2ca18715a9a
+
 This project is a demonstration of real-time server communication
 between two users using React and Node.js with the help of socket.io.
 The application allows users to enter their username and select a
@@ -14,7 +16,6 @@ Communication: Messages sent by one user are instantly displayed to both
 the sender and the recipient. Message Information: Each message is
 accompanied by the username of the sender and other relevant
 information. 
-https://github.com/bensmithcodes/livechat-app/assets/105318772/3dcb6895-1edb-40b4-9127-e2ca18715a9a
 
 Installation:
 
