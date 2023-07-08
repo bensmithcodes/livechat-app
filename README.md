@@ -16,7 +16,7 @@ accompanied by the username of the sender and other relevant
 information. Installation:
 
 Clone the repository: git clone
-https://github.com/bensmithcodes/livechatt-app.git Navigate to the project
+https://github.com/bensmithcodes/livechat-app.git Navigate to the project
 directory: cd chatReact Install the dependencies: npm install Start the
 server: npm start Open the application in your browser:
 http://localhost:3000 The other user will use http://localhost:3000,in a
